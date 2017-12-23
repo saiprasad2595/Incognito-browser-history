@@ -7,4 +7,3 @@ This small script helps you to get browsing history which you have searched even
 # Concept
 ipconfig /displaydns -Typing this command shows you the entire list of urls which you have searched in the broswer even from incognito mode.
 ipconfig /flushdns - Typing this command deletes the entire list of urls.
-# End
